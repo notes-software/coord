@@ -1,7 +1,7 @@
 {
     "name":  "notes/coord",
     "description": "The Test Framework.",
-    "type": "package",
+    "type": "project",
     "support": {
         "issues": "https://github.com/notes-software/docs/issues",
         "source": "https://github.com/notes-software/docs"
@@ -11,7 +11,5 @@
             "name": "Jgwarthegreat",
             "email": "jgpain21@gmail.com"
         }
-    ],
-    "minimum-stability": "dev",
-    "prefer-stable": true
+    ]
 }
