@@ -1,0 +1,14 @@
+{
+    "name": "notes-software/coord",
+    "description": "Check if user's gps location is inside the given radius",
+    "license": "",
+    "authors": [
+        {
+            "name": "Jagwarthegreat",
+            "email": "jguapin21@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    }
+}
