@@ -11,5 +11,7 @@
             "name": "Jgwarthegreat",
             "email": "jgpain21@gmail.com"
         }
-    ]
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
