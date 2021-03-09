@@ -1,0 +1,26 @@
+{
+    "name": "notes/coord",
+    "description": "This will check if the user's location is within the radius specified",
+    "keywords": [
+        "notes-software",
+        "coord"
+    ],
+    "homepage": "https://github.com/notes-software/coord",
+    "authors": [
+        {
+            "name": "Jagwarthegreat",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^5.4"
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "autoload": {
+        "psr-4": {
+            "notes\\coord\\": "./"
+        }
+    }
+}
